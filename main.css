@@ -132,7 +132,6 @@ main {
 	width: 100%;
 	display: block;
 	transition: 0.4s;
-	flex: 1 1 0%;
 }
 
 .task .content .text:not(:read-only) {
