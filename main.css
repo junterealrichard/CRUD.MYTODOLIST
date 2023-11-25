@@ -124,7 +124,7 @@ main {
 	margin-bottom: 1rem;
 }
 
-#tasks .task .content {
+#tasks .task .content{
 	color: var(--black);
 	font-size: 1.125rem;
 	width: 100%;
