@@ -55,6 +55,7 @@ input{
   appearrance: none;
   outline: none;
   border: none;
+background: none;
 }  
 
 #new-task-input {
